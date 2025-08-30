@@ -4,13 +4,69 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>sankalp.kajave</sys_created_by>
-            <sys_created_on>2025-08-30 08:13:15</sys_created_on>
-            <sys_id>e88a8b2b932b62106974f15efaba10fb</sys_id>
+            <sys_created_on>2025-08-30 09:34:00</sys_created_on>
+            <sys_id>97fcd72793ab62106974f15efaba10fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_85492_wishlist_wish_item" sys_domain="global" view="Default view">a88a4b2b932b62106974f15efaba10fe</sys_ui_section>
             <sys_updated_by>sankalp.kajave</sys_updated_by>
-            <sys_updated_on>2025-08-30 08:13:15</sys_updated_on>
+            <sys_updated_on>2025-08-30 09:34:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <position>1</position>
+            <sys_created_by>sankalp.kajave</sys_created_by>
+            <sys_created_on>2025-08-30 09:34:00</sys_created_on>
+            <sys_id>d3fcd72793ab62106974f15efaba10fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85492_wishlist_wish_item" sys_domain="global" view="Default view">a88a4b2b932b62106974f15efaba10fe</sys_ui_section>
+            <sys_updated_by>sankalp.kajave</sys_updated_by>
+            <sys_updated_on>2025-08-30 09:34:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requester</element>
+            <position>2</position>
+            <sys_created_by>sankalp.kajave</sys_created_by>
+            <sys_created_on>2025-08-30 09:34:00</sys_created_on>
+            <sys_id>dbfcd72793ab62106974f15efaba10fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85492_wishlist_wish_item" sys_domain="global" view="Default view">a88a4b2b932b62106974f15efaba10fe</sys_ui_section>
+            <sys_updated_by>sankalp.kajave</sys_updated_by>
+            <sys_updated_on>2025-08-30 09:34:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item</element>
+            <position>3</position>
+            <sys_created_by>sankalp.kajave</sys_created_by>
+            <sys_created_on>2025-08-30 09:34:00</sys_created_on>
+            <sys_id>d3fcd72793ab62106974f15efaba10fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85492_wishlist_wish_item" sys_domain="global" view="Default view">a88a4b2b932b62106974f15efaba10fe</sys_ui_section>
+            <sys_updated_by>sankalp.kajave</sys_updated_by>
+            <sys_updated_on>2025-08-30 09:34:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>4</position>
+            <sys_created_by>sankalp.kajave</sys_created_by>
+            <sys_created_on>2025-08-30 09:34:00</sys_created_on>
+            <sys_id>dbfcd72793ab62106974f15efaba10fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85492_wishlist_wish_item" sys_domain="global" view="Default view">a88a4b2b932b62106974f15efaba10fe</sys_ui_section>
+            <sys_updated_by>sankalp.kajave</sys_updated_by>
+            <sys_updated_on>2025-08-30 09:34:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
